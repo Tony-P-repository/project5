@@ -1,3 +1,14 @@
 /* ============================================= */
 /*                 Elements                      */
 /* ============================================= */
+
+#search {
+  width: calc(320px + 20%);
+  max-width: 100%;
+  margin: 20px auto;
+  display: block;
+
+  padding: 10px 10px;
+  border-radius: 5px;
+  border: 2px solid lightgrey;
+}
