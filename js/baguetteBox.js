@@ -1,3 +1,5 @@
+// jscs:disable
+/* jshint ignore:start */
 /*!
  * baguetteBox.js
  * @author  feimosi

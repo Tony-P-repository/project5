@@ -1,5 +1,4 @@
 // jscs:disable
-
 /* jshint ignore:start */
 /**
  * searchFilter.js
